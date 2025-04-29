@@ -1,0 +1,37 @@
+imageio==2.9.0
+imagesize==1.2.0
+imgaug==0.4.0
+importlib-metadata==1.5.0
+ipykernel==5.2.0
+ipython==7.13.0
+
+Keras==2.4.3
+Keras-Applications==1.0.8
+# keras-contrib==2.0.8
+Keras-Preprocessing==1.1.2
+
+matplotlib==3.3.4
+notebook==6.0.3
+numpy==1.19.5
+
+opencv-python==4.5.1.48
+opencv-python-headless==4.5.1.48
+openslide-python==1.1.2
+
+pandas==1.1.5
+Pillow==7.0.0
+plotly==4.14.3
+# Python==3.8.10
+
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.4.1
+tensorflow-estimator==2.4.0
+
+scikit-image==0.17.2
+scikit-learn==0.24.1
+scipy==1.5.4
+h5py==2.10.0
+pytest-shutil
+pyvips==2.2.1
+# CUDA==10.1
